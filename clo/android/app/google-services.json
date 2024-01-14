@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084082778261",
+    "project_id": "clo-shopping-app",
+    "storage_bucket": "clo-shopping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084082778261:android:94b06b8575539964966b9c",
+        "android_client_info": {
+          "package_name": "com.example.clo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgcLOaI4eqr-28KYBdzCNdzEBPaqhwaYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
